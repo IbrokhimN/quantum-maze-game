@@ -1,35 +1,39 @@
-# Quantum Maze Game
+# 🌀 Quantum Maze Game  
 
-**Quantum Maze Game** is an educational Python project demonstrating the principles of quantum randomness applied to a simple maze game. The player's movements are determined by quantum states, generated and simulated using [Qiskit](https://qiskit.org/). The project also provides Bloch sphere visualization of qubit states.
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)](https://www.python.org/)  
+[![Qiskit](https://img.shields.io/badge/Qiskit-Quantum%20SDK-6f42c1?logo=ibm&logoColor=white)](https://qiskit.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly&logoColor=white)](https://matplotlib.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
 
----
-
-## Features
-- Maze navigation where moves are dictated by quantum-generated outcomes.
-- Integration with **Qiskit** for quantum state preparation and measurement.
-- Visualization of qubit states on the **Bloch sphere**.
-- Interactive text-based gameplay.
-
----
----
-
-## Requirements
-
-* Python 3.9+
-* [Qiskit](https://qiskit.org/)
-* Matplotlib
-
-All requirements are listed in `requirements.txt`.
+**Quantum Maze Game** is an educational Python project demonstrating the principles of **quantum randomness** applied to a simple maze game.  
+The player’s movements are determined by quantum states, generated and simulated using [Qiskit](https://qiskit.org/).  
+The project also includes **Bloch sphere visualization** of qubit states.  
 
 ---
 
-## Usage
+## ✨ Features
+- 🧭 Maze navigation where moves are dictated by **quantum-generated outcomes**.  
+- ⚛️ Integration with **Qiskit** for quantum state preparation and measurement.  
+- 🎨 Visualization of qubit states on the **Bloch sphere**.  
+- 🎮 Interactive text-based gameplay.  
 
-Run the game:
+---
+
+## 📦 Requirements
+- Python **3.9+**  
+- [Qiskit](https://qiskit.org/)  
+- Matplotlib  
+
+All dependencies are listed in `requirements.txt`.  
+
+---
+
+## 🚀 Usage
+Run the game:  
 
 ```bash
 python quantum_maze.py
-```
+````
 
 Available modes:
 
@@ -39,7 +43,7 @@ Available modes:
 
 ---
 
-## Example Gameplay
+## 🎲 Example Gameplay
 
 ```
 Choose a mode:
@@ -60,17 +64,18 @@ Qubits choose: R
 
 ---
 
-## Purpose
+## 🎯 Purpose
 
 This project is designed as a **didactic tool** for introducing quantum computing concepts through interactive gameplay.
 It illustrates:
 
-* Randomness from quantum superposition.
-* Statevector probabilities.
-* Basic visualization of quantum states.
+* Randomness from **quantum superposition**.
+* **Statevector** probabilities.
+* Basic **visualization** of quantum states.
 
 ---
 
-## License
+## 📜 License
 
-This project is distributed under the **MIT License**. See `LICENSE` for details.
+This project is distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
+
