@@ -3,18 +3,13 @@
 <p align="center">
   <em>An educational Python project exploring quantum randomness through an interactive maze game.</em>
 </p>
-
 <p align="center">
-  <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" alt="Python">
-  </a>
-  <a href="https://qiskit.org/">
-    <img src="https://img.shields.io/badge/Qiskit-Enabled-purple?logo=IBM&logoColor=white" alt="Qiskit">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://qiskit.org/"><img src="https://img.shields.io/badge/Qiskit-Supported-6929C4?style=for-the-badge&logo=ibm&logoColor=white" alt="Qiskit"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-4caf50?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License"></a>
 </p>
+
 
 ---
 
@@ -59,9 +54,9 @@ python quantum_maze.py
 
 Available modes:
 
-1. 🎮 **Play the maze** – Navigate using quantum outcomes.
-2. 🌀 **Visualize qubits** – See states on the Bloch sphere.
-3. ❌ **Exit** – Quit the program.
+1. 🎮 <b>Play the maze</b> – Navigate using quantum outcomes.
+2. 🌀 <b>Visualize qubits</b> – See states on the Bloch sphere.
+3. ❌ <b>Exit</b> – Quit the program.
 
 ---
 
@@ -88,11 +83,13 @@ Qubits choose: R
 
 <h2>🎯 Purpose</h2>
 
-This project serves as a **didactic tool** for introducing quantum computing through play:
+This project serves as a <b>didactic tool</b> for introducing quantum computing through play:
 
-* Quantum randomness & superposition
-* Statevector probabilities
-* Visualization of qubit states
+<ul>
+  <li>Quantum randomness & superposition</li>
+  <li>Statevector probabilities</li>
+  <li>Visualization of qubit states</li>
+</ul>
 
 ---
 
@@ -101,3 +98,4 @@ This project serves as a **didactic tool** for introducing quantum computing thr
 This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.
 See <code>LICENSE</code> for details.
 
+```
